@@ -326,7 +326,7 @@ border: #13131d;
 }
 
 input:checked + .slider {
-  background-color: #66bb6a;
+  background-color: var(--headerbtn);
 }
 
 input:checked + .slider:before {
