@@ -252,6 +252,10 @@ a{
   cursor: pointer;
   z-index: 1000000;
 }
+#progress i{
+  font-size: 20px;
+  text-align: center;
+}
 #progress-value {
   display: block;
   height: calc(100% - 5px);
