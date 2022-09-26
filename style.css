@@ -31,7 +31,7 @@ body{
     --footer:rgba(28, 28, 43, 0.95);
     --input:#13131d;
     --a:gainsboro;
-    --background-image: url(./img/logo-white.png);
+    --background-image: url(https://rainbowit.net/html/nuron/assets/images/logo/logo-white.png);
 }
 [data-theme="dark"] {
   --header:white;
@@ -49,7 +49,7 @@ body{
   --swiper:#f5f8fa;
   --footer:white;
   --input:white; 
-  --background-image: url(./img/logo-dark.png);
+  --background-image: url(https://rainbowit.net/html/nuron/assets/images/logo/logo-dark.png);
 }
 header{
     /* background-color: var(--header); */
